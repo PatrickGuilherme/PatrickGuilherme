@@ -12,9 +12,7 @@ CIMATEC.
 
 <h2>Meios de contato</h2>
 <ul style="list-style:none;">
-  <li>Salvador/Bahia - BRASIL</li>
   <li>patrick.guilhermedasilva</li>
-  <li>(71) 9945-8148</li>
   <li>@PatrickGuilherme</li>
   <li>@patrick-gs</li>
 </ul>
