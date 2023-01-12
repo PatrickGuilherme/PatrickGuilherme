@@ -1,79 +1,54 @@
-<h1>
-  Patrick Guilherme da Silva 
-</h1>
 
-<h2>Apresentação</h2>
-<p>
-Hello, sou Patrick Guilherme estagiário em desenvolvimento
-de sistemas no SENAI CIMATEC e estudante no 6ª semestre
-de engenharia da computação pela instituição SENAI
-CIMATEC.
+### Hello There! Wellcome!! 💬
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<!--APRESENTAÇÃO-->
+<p align="left"> 
+Sou Patrick, <strong>Engenheiro da Computação</strong> em formação pelo senai cimatec e <strong>estagiário (desenvolvedor de software)</strong> na mesma instituição, aqui você verá parte da minha jornada pelo desenvolvimento web.
 </p>
 
-<h2>Meios de contato</h2>
-<ul style="list-style:none;">
-  <li>patrick.guilhermedasilva</li>
-  <li>@PatrickGuilherme</li>
-  <li>@patrick-gs</li>
-</ul>
+<!--CITAÇÃO JEDI-->
+<code>Muito a aprender eu tenho, mais a força guiar meu caminho, ela vai. </code>
 
-<h2>Habilidades Interpessoais</h2>
-<ul style="list-style:none;">
-  <li>Resiliência</li>
-  <li>Comunicação eficaz</li>
-  <li>Resolução de problemas</li>
-  <li>Autogestão</li>
-</ul>
+<p align="left">
+  🦄 Tecnologias que trabalho
+</p>
+<p>
+  <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="sqlserver" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+</p>
 
-<h2>Competências</h2>
-
-<h3>💾 Databases</h3
-<div>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
- 	<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-</div>
-
-
-<h3>📚 Frameworks, Platforms and Libraries</h3>
-<div>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-</div>
-
-### 🎨 Design
-<div>
- 	<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-
-##
-### 💻 IDEs/Editors
-<div>
+<p align="left">
+  💻 IDEs/Editors
+</p>
+<p>
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
  	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-</div>
+</p>
 
-##
+<p align="left">
+  💌 Entre em contato pelos canais abaixo: ⤵️
+</p>
 
+<p align="left">
+  <a target="_blank" href="mailto:patrick.guilhermedasilva@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
+  <a target="_blank" href="https://www.linkedin.com/in/patrick-gs/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-<!--
-**gdspeixoto/gdspeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a target="_blank" href="https://wa.me/5571999458148" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+</p>  
+  
+  
+ 
