@@ -1,35 +1,49 @@
-### Hi, my name is Patrick. Welcome to my portfolio 👋
+<h1>
+  Patrick Guilherme da Silva 
+</h1>
 
-<div align="center" style="height:180em;">
-  <a href="https://github.com/gdspeixoto">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PatrickGuilherme&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickGuilherme&langs_count=8&theme=dark">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="PatrickGuilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PatrickGuilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="PatrickGuilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="PatrickGuilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PatrickGuilherme-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<h2>Apresentação</h2>
+<p>
+Hello, sou Patrick Guilherme estagiário em desenvolvimento
+de sistemas no SENAI CIMATEC e estudante no 6ª semestre
+de engenharia da computação pela instituição SENAI
+CIMATEC.
+</p>
 
-##
-### 💾 Databases
+<h2>Meios de contato</h2>
+<ul style="list-style:none;">
+  <li>Salvador/Bahia - BRASIL</li>
+  <li>patrick.guilhermedasilva</li>
+  <li>(71) 9945-8148</li>
+  <li>@PatrickGuilherme</li>
+  <li>@patrick-gs</li>
+</ul>
+
+<h2>Habilidades Interpessoais</h2>
+<ul style="list-style:none;">
+  <li>Resiliência</li>
+  <li>Comunicação eficaz</li>
+  <li>Resolução de problemas</li>
+  <li>Autogestão</li>
+</ul>
+
+<h2>Competências</h2>
+
+<h3>💾 Databases</h3
 <div>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
  	<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
-##
-### 📚 Frameworks, Platforms and Libraries
+
+<h3>📚 Frameworks, Platforms and Libraries</h3>
 <div>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-##
 ### 🎨 Design
 <div>
  	<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
