@@ -4,7 +4,7 @@
 
 <!--APRESENTAÇÃO-->
 <p align="left"> 
-Sou Patrick, <strong>Engenheiro da Computação</strong> em formação pelo senai cimatec e <strong>estagiário (desenvolvedor de software)</strong> na mesma instituição, aqui você verá parte da minha jornada pelo desenvolvimento web.
+Sou Patrick, <strong>Engenheiro da Computação</strong> em formação pelo senai cimatec e <strong>desenvolvedor de software</strong> na mesma instituição, aqui você verá parte da minha jornada pelo desenvolvimento web.
 </p>
 
 <!--CITAÇÃO JEDI-->
